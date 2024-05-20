@@ -1,0 +1,433 @@
+.Nome{
+    position: relative;
+    color: #4E6137;
+    z-index: 100;
+    top: 27px;
+    font-family: "Verdana";
+    font-size: 75px;
+    font-weight: bold;
+}
+
+.linhaLoja{
+    position: relative;
+    padding: 1px;
+    background-color: #4E6137;
+    max-width: 40%;
+    left: 589px;
+    top: 30px;
+    box-shadow: 0 4px 8px rgba(109, 218, 8, 0.5);
+}
+
+.banner{
+    position: relative;
+    width: 70%;
+    height: 70%;
+    top: 79px;
+    background-color: white;
+}
+
+.baner{
+    position: relative;
+    top: 100px;
+}
+
+.baner3{
+    position: relative;
+    top: 120px;
+}
+
+.preco {
+    position: relative;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.texto{
+    gap: 90px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: -760px;
+    left: 190px;
+    font-size: 150px;
+    white-space: nowrap;
+}
+
+
+.quadrado{
+    position: relative;
+    padding: 10px;
+    left: 74px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+}
+
+.quadrado2{
+    position: relative;
+    padding: 10px;
+    right: -44px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+}
+
+.quadrado3{
+    position: relative;
+    padding: 10px;
+    left: 34px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+}
+  
+.quadrado4{
+    position: relative;
+    padding: 10px;
+    right: -20px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+}
+  
+
+.fundoPrec {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: 414px;
+    top: -70px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+
+.fundoPrec:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.fundoPrec2 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: 760px;
+    top: -145px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #00f, #00c);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+
+.fundoPrec2:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.fundoPrec3 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: 1120px;
+    top: -222px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #00f, #00c);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+
+.fundoPrec3:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.fundoPrec4 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: 1454px;
+    top: -299px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #00f, #00c);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+
+.fundoPrec4:hover{
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+.ajeitar{
+    position: relative;
+    right: 100px;
+}
+
+.money{
+    position: relative;
+    right: 565px;
+    top: -370px;
+    color: green;
+}
+
+.money2{
+    position: relative;
+    right: 220px;
+    top: -490px;
+    color: green;
+}
+
+.money3{
+    position: relative;
+    top: -613px;
+    left: 140px;
+    color: green;
+}
+
+.money4{
+    position: relative;
+    top: -735px;
+    left: 480px;
+    color: green;
+}
+
+.quinze{
+    position: relative;
+    top: -432px;
+    right: 505px;
+    color: white;
+}
+
+.doze{
+    position: relative;
+    top: -551px;
+    right: 155px;
+    color: white;
+}
+
+.vinte{
+    position: relative;
+    top: -674px;
+    left: 205px;
+    color: white;
+}
+
+.cinco{
+    position: relative;
+    top: -796px;
+    left: 535px;
+    color: white;
+}
+
+.Fundo2{
+    position: relative;
+    top: -600px;
+    left: 0px;
+}
+
+.images{
+    position: relative;
+    display: flex;
+    float: left;
+    flex-direction: row;
+    gap: 40px;
+    top: -1090px;
+    left: 240px;
+}
+
+.quadrado5{
+    position: relative;
+    padding: 10px;
+    right: 1220px;
+    top: 90px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+}
+
+.quadrado6{
+    position: relative;
+    padding: 10px;
+    right: 1190px;
+    top: 90px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+    
+}
+
+.quadrado7{
+    position: relative;
+    padding: 10px;
+    right: 1233px;
+    top: 90px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+    
+}
+
+.quadrado8{
+    position: relative;
+    padding: 10px;
+    right: 1246px;
+    top: 90px;
+    height: 40px;
+    border: 2px solid #0B2447;
+    border-top: none;
+    border-bottom: none;
+    font-size: 16px;
+    background: transparent;
+    outline: none;
+    box-shadow: 7px 7px 0px 0px #0B2447;
+    transition: all 0.5s;
+    
+}
+
+.money5{
+    position: relative;
+    right: 1220px;
+    top: -777px;
+    color: green;
+}
+.cinco2{
+    position: relative;
+    top: -838px;
+    right: 1158px;
+
+}
+
+.money6{
+    position: relative;
+    right: 910px;
+    top: -900px;
+    color: green;
+}
+
+.cinco3{
+    position: relative;
+    top: -1250px;
+    right: 845px;
+}
+.money7{
+    position: relative;
+    top: -1330px;
+    left: 150px;
+    color: green;
+}
+
+.dez{
+    position: relative;
+    top: -1392px;
+    right: -210px;
+}
+
+
+.money8{
+    position: relative;
+    top: -1455px;
+    left: 470px;
+    color: green;
+}
+
+.sete{
+    position: relative;
+    top: -1516px;
+    right: -520px;
+}
+.fundoPrec5 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: 100px;
+    top: -70px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+.fundoPrec6 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: 414px;
+    top: -70px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+.fundoPrec7 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: -220px;
+    top: -905px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+.fundoPrec8 {
+    position: relative;
+    padding: 30px;
+    width: 200px;
+    height: 50px;
+    left: 95px;
+    top: -982px;
+    border-radius: 15px;
+    background: linear-gradient(45deg, #000000, #000000);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
+    transition: box-shadow 0.3s ease;
+}
+
+
+
