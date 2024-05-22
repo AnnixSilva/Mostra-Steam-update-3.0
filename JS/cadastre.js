@@ -10,6 +10,8 @@ function FormularioCadastro() {
     dateOfBirth: ''
   });
 
+  window.alert('Você clicou no botão!');
+
   const handleChange = (e) => {
     const { name, value } = e.target;
     setFormData({
@@ -87,9 +89,8 @@ function FormularioCadastro() {
   </select>
 </label>
 
-
       <button className='form-button' type="submit">Cadastrar</button>
-    </form>
+        </form>
   );
 }
 

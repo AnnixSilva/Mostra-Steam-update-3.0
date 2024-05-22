@@ -9,7 +9,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg bg-custom-color"> 
       <div className="container-fluid">
-        <a classNamme="navbar-brand" href="#"/>
+        <a className="navbar-brand" href="#"/>
         <Link to="/"><Ecolife className='eco'/></Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
           <span className="navbar-toggler-icon"></span>

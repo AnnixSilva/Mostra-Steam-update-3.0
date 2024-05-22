@@ -192,7 +192,7 @@
 
 .money{
     position: relative;
-    right: 565px;
+    right: 585px;
     top: -370px;
     color: green;
 }
@@ -266,7 +266,7 @@
     position: relative;
     padding: 10px;
     right: 1220px;
-    top: 90px;
+    top: -200px;
     height: 40px;
     border: 2px solid #0B2447;
     border-top: none;
@@ -281,7 +281,7 @@
 .quadrado6{
     position: relative;
     padding: 10px;
-    right: 1190px;
+    right: 110px;
     top: 90px;
     height: 40px;
     border: 2px solid #0B2447;
@@ -298,7 +298,7 @@
 .quadrado7{
     position: relative;
     padding: 10px;
-    right: 1233px;
+    right: 120px;
     top: 90px;
     height: 40px;
     border: 2px solid #0B2447;
@@ -315,7 +315,7 @@
 .quadrado8{
     position: relative;
     padding: 10px;
-    right: 1246px;
+    right: 140px;
     top: 90px;
     height: 40px;
     border: 2px solid #0B2447;
@@ -331,62 +331,62 @@
 
 .money5{
     position: relative;
-    right: 1220px;
-    top: -777px;
+    left: -570px;
+    top: -1127px;
     color: green;
 }
 .cinco2{
     position: relative;
-    top: -838px;
-    right: 1158px;
+    top: -1188px;
+    right: 520px;
 
 }
 
 .money6{
     position: relative;
-    right: 910px;
-    top: -900px;
+    right: 200px;
+    top: -1247px;
     color: green;
 }
 
 .cinco3{
     position: relative;
-    top: -1250px;
-    right: 845px;
+    top: -1308px;
+    right: 150px;
 }
 .money7{
     position: relative;
-    top: -1330px;
-    left: 150px;
+    top: -1370px;
+    left: 120px;
     color: green;
 }
 
 .dez{
     position: relative;
-    top: -1392px;
-    right: -210px;
+    top: -1432px;
+    right: -183px;
 }
 
 
 .money8{
     position: relative;
-    top: -1455px;
-    left: 470px;
+    top: -1493px;
+    left: 477px;
     color: green;
 }
 
 .sete{
     position: relative;
-    top: -1516px;
-    right: -520px;
+    top: -1555px;
+    right: -529px;
 }
 .fundoPrec5 {
     position: relative;
     padding: 30px;
     width: 200px;
     height: 50px;
-    left: 100px;
-    top: -70px;
+    right: 950px;
+    top: -790px;
     border-radius: 15px;
     background: linear-gradient(45deg, #000000, #000000);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
@@ -397,8 +397,8 @@
     padding: 30px;
     width: 200px;
     height: 50px;
-    left: 414px;
-    top: -70px;
+    left: -584px;
+    top: -866px;
     border-radius: 15px;
     background: linear-gradient(45deg, #000000, #000000);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
@@ -409,8 +409,8 @@
     padding: 30px;
     width: 200px;
     height: 50px;
-    left: -220px;
-    top: -905px;
+    left: -255px;
+    top: -944px;
     border-radius: 15px;
     background: linear-gradient(45deg, #000000, #000000);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
@@ -422,7 +422,7 @@
     width: 200px;
     height: 50px;
     left: 95px;
-    top: -982px;
+    top: -1023px;
     border-radius: 15px;
     background: linear-gradient(45deg, #000000, #000000);
     box-shadow: 0 4px 8px rgba(0, 0, 0, 10);
